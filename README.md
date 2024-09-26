@@ -2,6 +2,12 @@
 
 This repository is a comprehensive comparison of common usages and patterns in three popular programming languages: **Dart**, **Kotlin**, and **Swift**. It focuses on how core concepts, syntax, and features are implemented across these languages, providing side-by-side examples to help developers transition between them or understand their nuances.
 
+### Get Started:
+Browse the code examples, or clone the repository to experiment locally:
+```bash
+git clone https://github.com/your-username/dart-kotlin-swift-comparison.git
+```
+
 ### Languages Covered:
 - **Dart**: A client-optimized language for fast apps on any platform, widely used in **Flutter** development.
 - **Kotlin**: A modern, concise programming language that's fully interoperable with Java and designed primarily for Android development.
@@ -60,11 +66,3 @@ Each language has its own directory with subdirectories for each key area of com
 
 ### How to Contribute:
 Feel free to submit pull requests with additional examples or improvements! Contributions that expand the comparison to cover more language features or provide clearer explanations are always welcome.
-
----
-
-### Get Started:
-Browse the code examples, or clone the repository to experiment locally:
-```bash
-git clone https://github.com/your-username/dart-kotlin-swift-comparison.git
-```
