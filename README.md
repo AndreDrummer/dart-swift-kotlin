@@ -5,7 +5,7 @@ This repository is a comprehensive comparison of common usages and patterns in t
 ### Get Started:
 Browse the code examples, or clone the repository to experiment locally:
 ```bash
-git clone https://github.com/your-username/dart-kotlin-swift-comparison.git
+git clone https://github.com/AndreDrummer/dart-kotlin-swift-comparison.git
 ```
 
 ### Languages Covered:
