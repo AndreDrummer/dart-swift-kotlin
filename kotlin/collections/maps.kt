@@ -17,18 +17,13 @@ fun main() {
     intMap1.isNotEmpty() // Returns if the map is not empty.
     intMap1.keys // Returns the keys of the map
     intMap1.values // Returns the values of the map
-    // intMap1.clear() // Clears the map
     intMap1.containsKey(1) // Checks if key 1 is present
     intMap1.containsValue(2) // Checks if value 2 is present
     intMap1.remove(1) // Removes the entry with key 1
     intMap1.remove(3, 4) // Remove the entrey where the key and value matches
     intMap1.putIfAbsent(3, 43) // Insert a value if the does not exists yet.
     intMap1.get(2) // Returns the value of key 2.
+    intMap1[2] // Returns the value of key 2.
     intMap1[1] = 678 // Updates value for key 1
-
-    println(intMap1)
-
-    for (i in 1..10) {
-        println("$i")
-    }
+    intMap1.clear() // Clears the map
 }

@@ -1,8 +1,10 @@
 fun main() {
-    var noExplicitType = mutableListOf<Int>() // Mutable empty list
 
     var intList0: MutableList<Int> = mutableListOf<Int>() // Mutable empty list
     var immutableIntList0: List<Int> = listOf<Int>() // Immutable empty list
+
+    // update values by indices, but won't let add or remove elements.
+    var fixedSize: Array<Int> = arrayOf<Int>()
 
     val noExplicitType1 = mutableListOf(5, 4, 6, 533, 32) // Mutable list
 
