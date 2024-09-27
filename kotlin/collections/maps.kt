@@ -1,3 +1,5 @@
+import kotlin.collections.mutableMapOf
+
 fun main() {
     var immutableIntMap0 = mapOf<Int, Int>() // Immutable empty map
     val intMap0 = mutableMapOf<Int, Int>() // Mutable empty map
